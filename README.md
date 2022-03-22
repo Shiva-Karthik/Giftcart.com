@@ -23,7 +23,7 @@ Project: make a clone of https://www.giftcart.com/ site
   <img src="/public/images/signin.png" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 - Product page
-    <img src="/public/images/product.png" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+    <img src="/public/images/productpage.png" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
     <p>
 - Single product page
 </p>
