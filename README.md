@@ -14,7 +14,7 @@ Project: make a clone of https://www.giftcart.com/ site
 
 #ScreenShots
 - Home page
-  <img src="https://drive.google.com/uc?export=view&id=1MZTHotmlqZyoGjQQbS9FOOnRKdA-ou7z" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://drive.google.com/uc?export=view&id=1MZTHotmlqZyoGjQQbS9FOOnRKdA-ou7z" style="width: 100%; max-width: 100%; height: auto" />
 
 - Signin page
   <img src="https://drive.google.com/uc?export=view&id=1qLR868cjEPZLHkT_6PpICEzh_kM2eEla" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
