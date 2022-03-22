@@ -14,26 +14,26 @@ Project: make a clone of https://www.giftcart.com/ site
 
 #ScreenShots
 - Home page
-  <img src="https://drive.google.com/uc?export=view&id=1MZTHotmlqZyoGjQQbS9FOOnRKdA-ou7z" style="width: 100%; max-width: 100%; height: auto" />
+  <img src="https://drive.google.com/uc?export=view&id=1PIThueYIsMo777h1m2HOU01KzXMet41g" style="width: 100%; max-width: 100%; height: auto" />
 
 - Signin page
-  <img src="https://drive.google.com/uc?export=view&id=1qLR868cjEPZLHkT_6PpICEzh_kM2eEla" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://drive.google.com/uc?export=view&id=17_KWxF5QQXUrh9WvAPwnQMti02OEEea4" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 - Signup page
-  <img src="https://drive.google.com/uc?export=view&id=1AoXJAOun5HL4it6Nwyw2tZTjcp8vlUHo" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://drive.google.com/uc?export=view&id=1b3zkFGRm6hZgNh2tZRqPEMSWMxdYRgVg" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 - Product page
-    <img src="https://drive.google.com/uc?export=view&id=1YwUTtq_YXrD7fFCySTu_4m7pX6eeB4Kq" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+    <img src="https://drive.google.com/uc?export=view&id=1xJbJsM0CgYSBCcSK8FWyzBETP54NMQzj" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
     <p>
 - Single product page
 </p>
-  <img src="https://drive.google.com/uc?export=view&id=1xL9omADJASqu5M5L82FAYbXTnXPqsYC1" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://drive.google.com/uc?export=view&id=1Uhq1Ki9tFSWaHXVQYxTetA8OnAbYHKMc" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
     
 - Cart page
-  <img src="https://drive.google.com/uc?export=view&id=1o50nuIid1II5uVYUEzp6BvJbNHkc-Pou" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://drive.google.com/uc?export=view&id=1UFPpAavjeIc0nuO5LZN7pUKRU967vwEb" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
 - Payment page
-  <img src="https://drive.google.com/uc?export=view&id=1wpu78rkEwajG_vlQOT7EjJjSf8bDZdeF" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
+  <img src="https://drive.google.com/uc?export=view&id=1g0jOxT8n_IAGNxdiS79b_u-oz9Q-5q2K" style="width: 100%; max-width: 100%; height: auto" title="Click to enlarge picture" />
   
   ### End Notes 📑
 In this project we were tried to achieve a near to perfect clone of the original website as much as possible. This entire journey of has given us experiences and we have learned lots of things by applying to the real website and it gave us a lot of confidence. If we have more time we can able to add more products.
